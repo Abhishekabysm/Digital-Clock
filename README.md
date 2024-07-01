@@ -12,6 +12,6 @@ Clone the repository and open index.html in your browser.
 
 
 Digital Clock By Abhishek Kumar
-https://www.github.com/Abhishekabysm/
+https://digital-clock-sable-psi.vercel.app
 
 You can see the webpage here:- https://drum-kit-pi-green.vercel.app/
